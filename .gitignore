@@ -1,0 +1,5 @@
+__pypackages__
+.vscode
+__pycache__
+.env
+.pdm.toml
